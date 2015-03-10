@@ -1,0 +1,6 @@
+NOTES-
+
+types of tests
+1. using emoticons, NERS, polarity and word frequency
+2. add web metrics
+3. compare web metrics-solo, web metrics+emoticons, emoticons-solo
